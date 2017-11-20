@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\bin\Debug\ShoppingListCsharp.exe.config
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\bin\Debug\ShoppingListCsharp.exe
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\bin\Debug\ShoppingListCsharp.pdb
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\obj\Debug\ShoppingListCsharp.csprojResolveAssemblyReference.cache
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\obj\Debug\ShoppingListCsharp.Form1.resources
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\obj\Debug\ShoppingListCsharp.Properties.Resources.resources
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\obj\Debug\ShoppingListCsharp.csproj.GenerateResource.Cache
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\obj\Debug\ShoppingListCsharp.exe
+C:\Users\john\Documents\Visual Studio 2015\Projects\ShoppingListCsharp\ShoppingListCsharp\obj\Debug\ShoppingListCsharp.pdb
