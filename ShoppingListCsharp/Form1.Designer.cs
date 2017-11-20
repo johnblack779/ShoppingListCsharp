@@ -38,9 +38,9 @@
             // 
             // btn_saveNewItem
             // 
-            this.btn_saveNewItem.Location = new System.Drawing.Point(224, 30);
+            this.btn_saveNewItem.Location = new System.Drawing.Point(224, 32);
             this.btn_saveNewItem.Name = "btn_saveNewItem";
-            this.btn_saveNewItem.Size = new System.Drawing.Size(114, 23);
+            this.btn_saveNewItem.Size = new System.Drawing.Size(114, 20);
             this.btn_saveNewItem.TabIndex = 0;
             this.btn_saveNewItem.Text = "Save new item";
             this.btn_saveNewItem.UseVisualStyleBackColor = true;
